@@ -1,4 +1,4 @@
-# Script for getting information from archival nodes and saving to csv.
+# Script for getting tx information of a ONE address from archival nodes and saving to csv.
 
 Change address and run the script. It will create a `data` folder and save a raw JSON response and a CSV with timestamps and amount parsed to reflect datetime and One amount.
 
