@@ -7,7 +7,7 @@ from web3 import Web3
 
 
 address = "one1xlu2vumced5sm5qtmxx27sekec8hcdc3maffaz"
-pages = 10
+pages = 100 # 1000 tx per page.
 harmony_api = "https://a.api.s0.t.hmny.io"  # Archive node
 
 
